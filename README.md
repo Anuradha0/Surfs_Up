@@ -19,7 +19,7 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ![name-of-you-image](https://github.com/Anuradha0/Surfs_Up/blob/main/Images/D1.png)
 
-**December: **
+**December:**
 
 ![name-of-you-image](https://github.com/Anuradha0/Surfs_Up/blob/main/Images/D2.png)
 
