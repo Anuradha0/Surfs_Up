@@ -3,13 +3,15 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 **Results:**
 1) The mean temperature of 75 F for June is higher than the mean temperature of 71 F for December.
+
+2) Grouping the data into 15 bins, the histograms visually show how the frequency centers around the two different means. Using the same range for the temperatures, June appears to have a slight left skew, where December is more symmetrical
 ** December:
 ![name-of-you-image](https://github.com/Anuradha0/Surfs_Up/blob/main/Images/dec_temp_graph.PNG)
 
 ** June:
 ![name-of-you-image](https://github.com/Anuradha0/Surfs_Up/blob/main/Images/june_temp_graph.PNG)
 
-2) However the minimum temp on both the months has major difference of 8 F june has 64 F and Dec has 56 F
+3) However the minimum temp on both the months has major difference of 8 F june has 64 F and Dec has 56 F
 **June Temps - Report**
 > Image with `Jupyter Notebook` & `Python` Code below.
 
@@ -18,9 +20,6 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 **December Temps - Report**
 > Image with `Jupyter Notebook` & `Python` Code below.
 
-3) 
-
 ![name-of-you-image](https://github.com/Anuradha0/Surfs_Up/blob/main/Images/D2.png)
 
-**Summary:** Based on our Data Analysis, Data Provided, we can state as a high-level summary of results that Standard deviation is 3.25 in June and 3.75 in December, making a 0.5 difference between both seasons.
-In addition, current data provide attributes such precipitation and others, with two queries that our analysis pursue, performing weather data for June and December that helps results to decide how we would like to build the shop and what areas would make this location attractive to visitors to stop by and have a successful business.
+**Summary:** Looking at the data and analysis, I would suggest to definetly open up a surf shop in Oahu as there isn't much difference in temp. So surfing can be all years sustainable idea for watersports and having said that ce cream shop business will also be a good idea.
