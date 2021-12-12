@@ -19,7 +19,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, we’ll filter the d
 **June Temps - Report**
 > Image with `Jupyter Notebook` & `Python` Code below.
 
-![name-of-you-image](https://github.com/Anuradha0/Surfs_Up/tree/main/Images/D1.PNG?raw=true)
+![name-of-you-image](https://github.com/Anuradha0/Surfs_Up/tree/main/Images/D1.PNG)
 
 **December Temps - Analysis and Result**
 * Count of 1517 
