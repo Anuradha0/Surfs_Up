@@ -1,7 +1,6 @@
-# Surfs Up
+# Surfs Up Overview of the analysis:
 W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
-
-1. **Overview of the analysis:** Using Python, Pandas functions and methods, and SQLAlchemy, we’ll filter the date column of the Measurements table in the `hawaii.sqlite` database to retrieve all the temperatures for the month of June. We'll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics. Once our dataframe is created we are able to get our summary statistics by using the `df.describe()` code and method. 
+Using Python, Pandas functions and methods, and SQLAlchemy, we’ll filter the date column of the Measurements table in the `hawaii.sqlite` database to retrieve all the temperatures for the month of June. We'll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics. Once our dataframe is created we are able to get our summary statistics by using the `df.describe()` code and method. 
 > Below our Analysis that what we found:
 
 2. **Results:** Data Provided gave us a visibility that on months of June and December, our location had a total Temps of:
@@ -20,7 +19,7 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 **June Temps - Report**
 > Image with `Jupyter Notebook` & `Python` Code below.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/surfs_up/blob/main/Resources/Images/1.4.PNG?raw=true)
+![name-of-you-image](https://github.com/Anuradha0/Surfs_Up/tree/main/Images/D1.PNG?raw=true)
 
 **December Temps - Analysis and Result**
 * Count of 1517 
